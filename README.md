@@ -190,7 +190,7 @@ like NavigationContainer, deal with managing state and class methods.
 Keeping all the more complex logic in one place makes it easier to follow the
 flow of information. It also keeps many components simpler and free of clutter.
 
-Container components, having to deal with state, are usually class components
+Container components, having to deal with state, are usually class components.
 Presentational components are most often functional components as they don't need to
 contain custom methods, relying mainly on props.
 
